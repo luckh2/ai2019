@@ -5,13 +5,19 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 ![Aicar Video](https://github.com/luckh2/aiclass/raw/master/media/aicar.gif)
 
 ### Class PPT
-[Part I AI Intro & Agent Building]
+[Part 0 AI Intro & Agent Building]
 
 - [About the class](https://github.com/luckh2/ai2019/raw/master/ppt/AI1.ppt)
-- - [Aicar Building](https://github.com/luckh2/ai2019/raw/master/ppt/Aicar.pptx)
+- [Aicar Building](https://github.com/luckh2/ai2019/raw/master/ppt/Aicar.pptx)
+
+[Part 1 Traditional AI]
+
 - [AI Reasoning](https://github.com/luckh2/ai2019/raw/master/ppt/reasoning.pptx)
 - [AI Search (DFS, BFS, Branch&Bound, A*)](https://github.com/luckh2/ai2019/raw/master/ppt/search1.pptx)
 - [AI Search2 (Game Search,Alpha-Beta Prunning)](https://github.com/luckh2/ai2019/raw/master/ppt/search2.pptx)
+
+[Part 2 Machine Learning AI]	
+
 - [Handson-1-cn (Machine Learning landscape)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on1-cn.pptx)
 - [Handson-2-cn (End-to-End ML project)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on2-cn.pptx)
 - [Handson-3-cn (Classification)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on3-cn.pptx)
