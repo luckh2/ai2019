@@ -22,4 +22,13 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 - [Handson-2-cn (End-to-End ML project)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on2-cn.pptx)
 - [Handson-3-cn (Classification)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on3-cn.pptx)
 - [Handson-4-cn (Linear Models)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on4-cn.pptx)
+- [Handson-5-cn (Support Vector Machines)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on5-cn.pptx)
+- [Handson-6-cn (Decisioon Trees)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on6-cn.pptx)
+- [Handson-7-cn (Ensemble Models)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on7-cn.pptx)
+- [Handson-8-cn (Dimensions Reduction)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on8-cn.pptx)
 
+[Part 3 Deep Learning AI]
+
+- [Handson-9-cn (Up and Running TensorFlow)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on9-cn.pptx)
+- [Handson-10-cn (Neural Networks)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on10-cn.pptx)
+- [PyTorch ](https://github.com/luckh2/ai2019/raw/master/ppt/pytorch.pptx)
