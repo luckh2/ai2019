@@ -32,3 +32,5 @@ Artificial intelligence (AI) is intelligence exhibited by intelligent agents
 - [Handson-9-cn (Up and Running TensorFlow)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on9-cn.pptx)
 - [Handson-10-cn (Neural Networks)](https://github.com/luckh2/ai2019/raw/master/ppt/hands-on10-cn.pptx)
 - [PyTorch ](https://github.com/luckh2/ai2019/raw/master/ppt/pytorch.pptx)
+- [CNN Models ](https://github.com/luckh2/ai2019/raw/master/ppt/CNN.pptx)
+- [RNN Models ](https://github.com/luckh2/ai2019/raw/master/ppt/RNN.pptx)
